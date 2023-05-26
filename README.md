@@ -12,7 +12,7 @@ You can login with the details below:
 
 ## Application Visuals
 
-<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/c1702d44-1dd2-459e-b126-e483619b1d6c" alt="app screenshot" width="350">
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/c1702d44-1dd2-459e-b126-e483619b1d6c" alt="app screenshot" width="300">
 <img src="https://github.com/karaguarraci/Travel-API/assets/115991254/59f673ab-e398-4494-8842-221695637343" width="300">
 <img src="https://github.com/karaguarraci/Travel-API/assets/115991254/3568459a-af21-4f19-9d17-cc44696fa4b0" width="300">
 <img src="https://github.com/karaguarraci/Travel-API/assets/115991254/9be4389f-5f64-4efe-b8bd-3a809d3805d9" width="300">
